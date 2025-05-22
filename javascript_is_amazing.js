@@ -1,4 +1,3 @@
-console.log ("javascript_is_amazing")
-
-
+const MyVar = "javascript is amazing";
+console.log(myVar);
  
