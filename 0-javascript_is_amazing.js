@@ -1,3 +1,3 @@
-const myVar = "javascript is amazing";
-console.log(myVar);
+consele.log = "javascript is amazing";
+
  
